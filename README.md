@@ -1,17 +1,27 @@
 CONTACT MANAGEMENT SYSTEM - PYTHON
 
+# 📇 Contact Management System (Python)
 
-- THANKS TO Yugesh Verma
+A simple **Contact Management System** built with Python that lets you **add, view, search, update, and delete** contacts.  
+Data is stored in a JSON file for persistence.
 
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+---
 
+## 🚀 Features
+- Add new contacts with name, phone, and email
+- View all saved contacts
+- Search for a contact by name or phone number
+- Update existing contact details
+- Delete contacts
+- Data stored in `contacts.json` (persists even after the program closes)
 
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+---
 
+## 🛠️ Requirements
+- Python 3.x  
+- No external libraries required (uses Python standard library)
 
-***** FOR MORE PROJECTS :- https://projectworlds.in/ *****
+---
 
+## 📂 Project Structure
 
-
-
-THANK YOU FOR DOWNLOADING :) 
